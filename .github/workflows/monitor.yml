@@ -12,22 +12,34 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-      - run: npm install --omit=dev
+      - name: 检出代码
+        uses: actions/checkout@v4
 
-      - name: 抓取公众号收稿动态
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: 安装依赖
+        run: npm ci --omit=dev || npm install --omit=dev
+
+      - name: 抓取公众号收稿动态（监测）
         run: node src/monitor-main.js --output ./verify-out --batch 2 --delay 2500
         continue-on-error: true
 
       - name: 生成最新编辑数据
         run: node src/build-editors.js --out ./editors-latest.json
 
-      - run: |
+      - name: 提交更新
+        run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # -f 强制添加被 .gitignore 排除的 editors-latest.json
+          git add -f editors-latest.json verify-out/progress.json 2>/dev/null || true
           git add -A
-          git diff --cached --quiet || git commit -m "chore: 每日自动更新收稿数据 $(date +'%Y-%m-%d')"
-          git push
+          if git diff --cached --quiet; then
+            echo "无变更，跳过 commit"
+          else
+            git commit -m "chore: 每日自动更新收稿数据 $(date +'%Y-%m-%d')"
+            git push
+          fi
