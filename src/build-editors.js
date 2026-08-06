@@ -62,6 +62,18 @@ function extractCategories(text) {
   return [...found];
 }
 
+// GitHub Actions 按 UTC 运行；数据面向国内用户，版本日期固定按北京时间计算。
+function beijingDate(now = new Date()) {
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Shanghai",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  }).formatToParts(now);
+  const value = Object.fromEntries(parts.map((p) => [p.type, p.value]));
+  return `${value.year}-${value.month}-${value.day}`;
+}
+
 // ---------- 主流程 ----------
 function main() {
   const args = parseArgs(process.argv.slice(2));
@@ -89,8 +101,6 @@ function main() {
 
   // 生成
   const items = [];
-  let withTheme = 0;
-  let stopped = 0;
   for (const e of editors) {
     const requirements = e.requirements || e.notes || "";
     const categories = e.workTypes && e.workTypes.length
@@ -105,9 +115,6 @@ function main() {
     // 状态：优先用核实结果，其次基础数据
     let status = e.status || "";
     if (pi && pi.status) status = pi.status;
-
-    if (themes.length > 0) withTheme++;
-    if (status === "停止收稿") stopped++;
 
     items.push({
       name: e.name || "",
@@ -135,10 +142,14 @@ function main() {
     });
   }
 
+  const withTheme = finalItems.filter((i) => i.themeDirections.length > 0).length;
+  const stopped = finalItems.filter((i) => i.status === "停止收稿").length;
+
   // 打包
+  const generatedAt = new Date();
   const payload = {
-    version: new Date().toISOString().slice(0, 10),
-    generatedAt: new Date().toLocaleString("zh-CN"),
+    version: beijingDate(generatedAt),
+    generatedAt: generatedAt.toISOString(),
     total: finalItems.length,
     source: "搜狗微信·公众号约稿函 + 公开征稿信息",
     disclaimer: "数据来自公开征稿信息，投稿前请自行核实邮箱有效性",

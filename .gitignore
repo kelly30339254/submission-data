@@ -8,6 +8,9 @@ editors-latest.json
 *.log
 channel-report.json
 
+# 本地部署/排查脚本（可能读取 GITHUB_TOKEN，不进入仓库）
+/*.ps1
+
 # 环境与本地配置
 .env
 .env.local
