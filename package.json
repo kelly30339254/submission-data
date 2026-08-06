@@ -1,0 +1,26 @@
+{
+  "name": "short-story-submission-scraper",
+  "version": "1.0.0",
+  "description": "短篇小说收稿信息爬虫：搜索并提取收稿编辑、邮箱、平台、收稿方向",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js",
+    "strict": "node src/main.js --strict",
+    "xhs": "node src/main.js --xhs-only",
+    "web": "node src/main.js --web-only",
+    "verify": "node src/verify-main.js",
+    "verify:top": "node src/verify-main.js --platforms 20",
+    "report": "node src/report.js",
+    "monitor": "node src/monitor-main.js",
+    "monitor:top": "node src/monitor-main.js --platforms 50",
+    "build:data": "node src/build-editors.js",
+    "daily": "node src/monitor-main.js --output ./verify-out --batch 2 --delay 2500 && node src/build-editors.js --out ./editors-latest.json"
+  },
+  "engines": {
+    "node": ">=16.14.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer-core": "^25.5.0"
+  }
+}

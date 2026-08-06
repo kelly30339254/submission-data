@@ -1,0 +1,17 @@
+# 运行产物（由爬虫生成，不提交）
+node_modules/
+output/
+monitor-out/
+verify-out/
+editors-latest.json
+*.html
+*.log
+channel-report.json
+
+# 环境与本地配置
+.env
+.env.local
+
+# 系统
+.DS_Store
+Thumbs.db
