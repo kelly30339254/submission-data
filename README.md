@@ -67,10 +67,10 @@ node src/main.js --limit 20 --pages 3 --max-detail 15 --output ./output
 
 ## 编辑收稿信息核实工具
 
-核对 `submission-editors.json`（2487 名编辑）的收稿方向/状态是否更新：
+核对 `submission-editors.json`（2979 名有效编辑）的收稿方向/状态是否更新：
 
 ```bash
-# 全量核实（876 个平台，约 15-30 分钟）
+# 全量核实（1039 个平台，约 20-40 分钟）
 node src/verify-main.js
 
 # 仅核实编辑数 TOP 20 的平台（快速验证）
@@ -94,7 +94,7 @@ node src/report.js
 按平台自动监测公众号收稿动态，检测更新（新动态/方向变化/状态变化/新编辑）：
 
 ```bash
-# 监测全部平台（876 个，约 30-60 分钟）
+# 监测全部平台（1039 个，约 40-80 分钟）
 npm run monitor
 
 # 监测编辑数 TOP 50 平台（约 5-10 分钟）

@@ -7,7 +7,7 @@
  *   与上次对比检测：新动态 / 方向变化 / 状态变化 / 新编辑
  *
  * 用法：
- *   node src/monitor-main.js                          # 监测全部 876 个平台
+ *   node src/monitor-main.js                          # 监测全部 1039 个平台
  *   node src/monitor-main.js --platforms 50           # 仅监测编辑数 TOP 50 平台
  *   node src/monitor-main.js --platforms 七猫,四季    # 监测指定平台（逗号分隔）
  *   node src/monitor-main.js --output ./monitor-out   # 输出目录

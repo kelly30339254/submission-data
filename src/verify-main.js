@@ -7,7 +7,7 @@
  *   提取编辑名、邮箱、QQ、收稿方向、收稿状态，与旧数据对比，产出核对报告。
  *
  * 用法：
- *   node src/verify-main.js                       # 全量核实（2487 编辑 / 876 平台）
+ *   node src/verify-main.js                       # 全量核实（2979 编辑 / 1039 平台）
  *   node src/verify-main.js --platforms 20        # 仅核实编辑数 TOP 20 的平台
  *   node src/verify-main.js --batch 3             # 每批并发平台数（默认 3，防止封禁）
  *   node src/verify-main.js --input xx.json       # 指定输入文件

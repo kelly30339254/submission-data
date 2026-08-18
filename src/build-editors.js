@@ -2,7 +2,7 @@
  * 数据生成器：整合编辑数据 → 云端 editors-latest.json
  *
  * 输入：
- *   - submission-editors.json   (2487 名编辑基础数据)
+ *   - submission-editors.json   (2979 名有效编辑基础数据)
  *   - verify-out/progress.json  (平台核实结果，含 themeDirections/status)
  * 输出：
  *   - editors-latest.json       (软件兼容的云端数据格式)
