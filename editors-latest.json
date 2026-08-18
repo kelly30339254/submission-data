@@ -1,12 +1,12 @@
 {
-  "version": "2026-08-18",
-  "generatedAt": "2026-08-18T09:29:54.606Z",
+  "version": "2026-08-19",
+  "generatedAt": "2026-08-18T18:55:41.936Z",
   "total": 2979,
   "source": "搜狗微信·公众号约稿函 + 公开征稿信息",
   "disclaimer": "数据来自公开征稿信息，投稿前请自行核实邮箱有效性",
   "stats": {
     "withThemeDirections": 644,
-    "stopped": 1021
+    "stopped": 1054
   },
   "editors": [
     {
@@ -270,7 +270,7 @@
         "爽文",
         "古言"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】现言古言，虐文爽文，脑洞世情",
       "updateTime": "2024-11-30"
@@ -282,7 +282,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不收",
       "updateTime": "2025-03-31"
@@ -381,7 +381,7 @@
       "qq": "",
       "categories": "长篇/短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2025-03-31"
@@ -407,7 +407,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2025-07-31"
@@ -450,7 +450,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -556,7 +556,7 @@
         "世情",
         "追妻"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "知乎风快砸过来呀，世情，追妻",
       "updateTime": "2025-01-31"
@@ -1084,7 +1084,7 @@
       "qq": "",
       "categories": "中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-05-31"
@@ -1314,7 +1314,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2024-09-30"
@@ -1328,7 +1328,7 @@
       "themeDirections": [
         "豪门"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】近期的例文:自杀后，恨了我五年的哥哥悔疯了许你人间半阙春今夜城北倾盆大雨南加州从不下雨帮总裁解决公司危机后，我被当赌狗扫地出门爸爸妈妈，晚来的蛋糕我不要了轩尼诗葬半生欢爸妈亲手送我入狱后，我有了新的家人赠我山河与清风各拥星辰不同舟",
       "updateTime": "2025-03-31"
@@ -1415,7 +1415,7 @@
         "古言",
         "历史"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】1、运动向切入\n赛车/滑雪/徒步/骑行/潜水/跳伞\n例文：誓言随风散，故人不如初\n带我徒步鳌太线后，哥哥疯了\n\t\n2、坦白局\n例文：深夜电台不再回信\n爱意已逝，何堪回首\n繁华未尽，此情无计\n等待爱，春和景明\n回眸处，山水相逢\n过年他们都不在\n\t\n3、推迟婚礼/假结婚证\n例文：春如旧，人空瘦\n爱意已逝，何堪回首\n亲手补办老公结婚证后，他悔疯了\n一张假证骗我六年，不做保姆后我杀疯了\n\t\n4、学乖梗\n例文：繁华未尽，此情无计\n学乖变好妹妹后，哥哥怎么又后悔了呢\n\t\n5、双重背叛\n例文：风止于那年，你走于那天\n风起南星，命运一笔\n繁华未尽，此情无计\n五次小产后，我死在太子最爱我那天\n\t\n6、死人文学\n例文：我死后五年，总裁丈夫二次找我顶罪\n带我徒步鳌太线后，哥哥疯了\n满身污垢的她，是人间最干净的雪\n\t\n7、装穷\n例文：他来时，爱恨皆成殇\n偏执风月困余生\n抬棺五年为儿子凑药费，却是丈夫的试探\n云离之后，再无归途\n\t\n8、青春文学\n例文：时光未许我深情\n\t\n9、替妹复仇\n例文：以我缝骨之术，渡你此生清欢\n\t\n10、卖关子（可结合清明热点）\n例文：除夕夜，电梯不让我进家",
       "updateTime": "2025-04-30"
@@ -2172,7 +2172,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "主收：免费长篇～\n狂收：付费中短～\n长篇4000字可看稿，中短篇6000字可签",
       "updateTime": "2025-01-31"
@@ -2270,7 +2270,7 @@
         "攻略",
         "古言"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "主收：知乎向追妻！小程序节奏！剧情要紧凑，节奏要快！（世情不作重点，极少量）\n现言追妻追夫，年代追妻追夫，古言追妻追夫（古言最近大量收）\n元素叠加：黑道，佣兵，系统，穿书等\n关键词：1.创新元素+强情绪+细节虐心+主角人设突出\n2.开篇信息差+身份错位+强苏男主+极致拉扯\n3.文笔细腻+替嫁+忘恩负义+信息差反击\n例文：\n《拈花一笑盼君归\n《你的星光我的归期》\n《你的余温我的归途》\n《满级妖媚嫁入侯府，汉子茶女将军悔疯了》\n《你是谁的安全词》\n《此去经年，晓色初开》\n《晚风惊扰旧梦》\n《半盏花灯枕明月》\n《晚风消散后，才爱我》",
       "updateTime": "2025-02-28"
@@ -2346,7 +2346,7 @@
       "qq": "",
       "categories": "中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2024-09-30"
@@ -2413,7 +2413,7 @@
       "qq": "",
       "categories": "漫剧",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-10-31"
@@ -2557,7 +2557,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2024-12-31"
@@ -2625,7 +2625,7 @@
       "qq": "",
       "categories": "中短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2024-10-31"
@@ -2694,7 +2694,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-05-31"
@@ -2892,7 +2892,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2025-05-31"
@@ -2989,7 +2989,7 @@
         "历史",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】投稿稿件需不低于六千字，低于六千字的投稿不回复！\n主收：后宫玄幻文、后宫历史文、后宫都市、多女主年代文、清水官场、神医、高手下山，以及能写长的优秀脑洞文",
       "updateTime": "2024-10-31"
@@ -3134,7 +3134,7 @@
         "爽文",
         "校园"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "小程序风文和知乎风文。\n优先收:男频虐渣爽文，女频世情爽文。\n女频追妻，女频校园世情。",
       "updateTime": "2024-09-30"
@@ -3210,7 +3210,7 @@
         "古言",
         "悬疑"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "主收女频，现言古言世情民俗悬疑等全品类，自有渠道，可定制",
       "updateTime": "2025-01-31"
@@ -3222,7 +3222,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2024-09-30"
@@ -3312,7 +3312,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-05-31"
@@ -3336,7 +3336,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】超过2个工作日没回就是没过，稿费立结",
       "updateTime": "2024-09-30"
@@ -3447,7 +3447,7 @@
       "themeDirections": [
         "历史"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收长篇：男频女频历史文、种田文，其他番茄风亦可，拒收耽美、百合、同人类\n",
       "updateTime": "2025-03-31"
@@ -4336,7 +4336,7 @@
         "虐文",
         "爽文"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】新媒体小程序风 强情绪虐文 爽文 等等",
       "updateTime": "2025-01-31"
@@ -4705,7 +4705,7 @@
         "追妻",
         "爽文"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】世情亲情虐爽 言情追妻虐爽 打脸虐渣 强情绪 ",
       "updateTime": "2024-09-30"
@@ -4791,7 +4791,7 @@
         "追妻",
         "都市"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】【短篇】小程序新媒体风1-3万字，主收现代言情（追妻追夫）/强情绪拉扯世情，全本投递\n【中短篇】近期暂不收中短",
       "updateTime": "2024-09-30"
@@ -5225,7 +5225,7 @@
         "古言",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收年代、古言、脑洞文，末世怪谈、玄幻仙侠、现言霸总、医妃马甲、快穿穿书、奶团萌宝也哐哐收，只要稿子好题材不限，偏爱矛盾情绪激烈一些、男女主对手戏带感的文",
       "updateTime": "2024-10-31"
@@ -5245,7 +5245,7 @@
         "科幻",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收传统医妃、权谋、宅斗宫斗、微创新古言（逃荒、奶团、恶婆婆等）；暧昧向的感情流现言；玄幻仙侠；脑洞向（规则怪谈、无限快穿、星际末世、西幻、娱乐圈等）",
       "updateTime": "2024-10-31"
@@ -5359,7 +5359,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "收男频新媒体免费向长篇",
       "updateTime": "2025-01-31"
@@ -5421,7 +5421,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2024-09-30"
@@ -5816,7 +5816,7 @@
         "都市",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】全品类收稿，主收脑洞玄幻、脑洞都市、文娱等，以及高质量的传统文",
       "updateTime": "2024-10-31"
@@ -6030,7 +6030,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】满10000字可投稿，正文开头+简要大纲投稿到编辑邮箱",
       "updateTime": "2024-10-31"
@@ -6042,7 +6042,7 @@
       "qq": "",
       "categories": "长篇/短篇/中短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "满10000字可投稿，正文开头+简要大纲投稿到编辑邮箱",
       "updateTime": "2024-10-31"
@@ -6223,7 +6223,7 @@
         "年代",
         "古言"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收重生年代，古言甜宠，现言婚恋（暧昧强感情流、闪婚甜宠、真假千金、玄学幻想）等当下热门题材。",
       "updateTime": "2024-12-31"
@@ -6493,7 +6493,7 @@
       "qq": "",
       "categories": "漫剧",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2026-01-26"
@@ -6517,7 +6517,7 @@
       "qq": "",
       "categories": "漫剧",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2026-01-26"
@@ -6944,7 +6944,7 @@
       "qq": "",
       "categories": "漫剧",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2026-01-28"
@@ -6980,7 +6980,7 @@
       "qq": "",
       "categories": "漫剧",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2026-01-28"
@@ -6996,7 +6996,7 @@
         "惊悚",
         "奇幻"
       ],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】诡异克苏鲁、灵异、未世、荒岛、求生、玄幻等，剧情悬念要强、转折快，",
       "updateTime": "2026-01-28"
@@ -7083,7 +7083,7 @@
         "年代",
         "历史"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收以小人物崛起，大国崛起为主线的特色品类作品，爱国科技文、御兽脑洞文、全民转职文、末世求生文、娱乐文等，其他脑洞题材不限！兼收具有新热和创意的新媒体历史，重生年代文。",
       "updateTime": "2024-12-31"
@@ -7220,7 +7220,7 @@
         "历史",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收以小人物崛起，大国崛起为主线的特色品类作品，创意爱国科技文，以及脑洞都市，历史等当下市场热门脑洞题材，兼收具有新热和创意的新媒体历史文，都市修仙文，轻小说等。",
       "updateTime": "2024-12-31"
@@ -7712,7 +7712,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2025-04-30"
@@ -7829,7 +7829,7 @@
       "qq": "",
       "categories": "超短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-08-31"
@@ -7963,7 +7963,7 @@
       "themeDirections": [
         "追妻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】五月收稿重点\n千字50起：2-3w中短篇\n1w短篇、长篇暂时不收，投稿的宝子可自行撤回\n收稿方向：感情流、追妻火葬场、倒计时文学\n\t\n例文：\n嫁给截瘫无能京圈太子爷后，三个童养夫急了\n声声思念与谁说\n等风等雨等不到你\n望舒\n元元圆满\n月半明时\n\t\n投稿4-6k字起，备注投稿方向，如：中短篇、短篇以及稿费意向",
       "updateTime": "2024-11-30"
@@ -8114,7 +8114,7 @@
         "世情",
         "校园"
       ],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】男女频不限\n番茄改编或者原创\n不收：女尊、校园、同性、世情\n要求：\n故事大纲梗概、人物小传+正文10集可审，30集投递\n1⃣️单场标题加粗（1-1 1-2这种），所有台词标暗红。\n2⃣️字数篇幅控制：\n除1-3集字数可以略多（不超过1500字），其余章节控制在700字左右。30集字数2w左右。",
       "updateTime": "2025-07-31"
@@ -8131,7 +8131,7 @@
         "女强",
         "古言"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "同质化套路文不收，一比一仿写不收。\n一、现言/古言：清醒、理智、智商在线大女主爽文（不要恋爱脑/真假千金/热点/创新！！！）\n二、世情；爽文（要小事出发、女主清醒理智，强势打脸，创新！！！）",
       "updateTime": "2025-07-31"
@@ -8221,7 +8221,7 @@
         "古言",
         "悬疑"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】超短收稿方向:现言虐恋、古言虐恋、大女主、爽文、宫斗宅悬疑推理、民间奇闻等",
       "updateTime": "2024-09-30"
@@ -8260,7 +8260,7 @@
         "惊悚",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】中短热门风向及例文:推荐第三人称，内容需有分章节小标题，追夫/追妻火葬场，重生虐恋、倒计时文学、死人文学、换夫换妻、学乖、报恩流等，欢迎悬疑、灵异、仙侠等新题材试稿-例文: 《浮灯灿烂一朝》、《重生回到全家被杀的除夕夜》\n《如果你要写遗憾》",
       "updateTime": "2025-05-31"
@@ -8346,7 +8346,7 @@
         "古言",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收重生宅斗，古言甜宠，年代种田，现言婚恋，脑洞仙侠，穿越女强等当下热门题材。",
       "updateTime": "2024-12-31"
@@ -8382,7 +8382,7 @@
       "qq": "",
       "categories": "超短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-07-31"
@@ -8394,7 +8394,7 @@
       "qq": "",
       "categories": "超短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2024-09-30"
@@ -8613,7 +8613,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-05-31"
@@ -8824,7 +8824,7 @@
       "qq": "",
       "categories": "漫剧",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2026-01-26"
@@ -8918,7 +8918,7 @@
         "都市",
         "历史"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收全品类脑洞文、同人、以及传统都市、历史、种田、年代等",
       "updateTime": "2024-10-31"
@@ -8942,7 +8942,7 @@
         "古言",
         "历史"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收各类现言古言，新媒体文、总裁、婚恋、萌宝、职场、年代、古代大女主、宅斗、宫斗、权谋、种田、团宠。风格喜好甜爽、微虐、打脸、复仇、日常、搞事业、人间清醒，鼓励创新和微创新",
       "updateTime": "2024-10-31"
@@ -8981,7 +8981,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-05-31"
@@ -9035,7 +9035,7 @@
         "豪门",
         "古言"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收脑洞向，重生年代，古言甜宠，重生宅斗，新媒体婚恋，豪门总裁，等当下热门题材。",
       "updateTime": "2024-12-31"
@@ -9099,7 +9099,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2024-10-31"
@@ -9291,7 +9291,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2025-04-30"
@@ -9398,7 +9398,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "-",
       "updateTime": "2025-01-31"
@@ -9580,7 +9580,7 @@
       "qq": "",
       "categories": "中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】有中短破保底成绩，可直接加小鸭qq！",
       "updateTime": "2024-11-30"
@@ -9706,7 +9706,7 @@
         "古言",
         "历史"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】书旗柠檬4-5月收稿方向\n六千正文?投\n重点收：\n1.脑洞微创新[棒R]\n类型题材不设限，需脑洞向有新意，结合创新元素，如弹幕、共感、读心、兽语等。\n例文：《七零养崽：炮灰亲妈看到弹幕后》、《弹幕通古代，我嘎嘎拆了十桩婚》、《消失十五年，孩子妈穿回来了！》、《全球贬值，我穿回来后带飞全家》、《听懂毛绒绒说话，我家变动物乐园》\n\t\n2. 兽世恶雌多夫：\n恶毒雌性+N个兽夫设定（5个起）\n例文：《恶雌娇软：深陷五个兽夫修罗场》、《恶毒雌性，开局就送五个兽夫》、《穿成恶毒雌性，开局就送七个俊美兽夫》",
       "updateTime": "2024-12-31"
@@ -9902,7 +9902,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2026-04-22"
@@ -10041,7 +10041,7 @@
       "qq": "",
       "categories": "漫剧/短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "北京千读公司",
       "updateTime": "2025-03-31"
@@ -10053,7 +10053,7 @@
       "qq": "",
       "categories": "漫剧/短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -10243,7 +10243,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-09-30"
@@ -10267,7 +10267,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不收ai文",
       "updateTime": "2025-04-30"
@@ -10303,7 +10303,7 @@
       "qq": "",
       "categories": "中短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-09-30"
@@ -10421,7 +10421,7 @@
         "攻略",
         "奇幻"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "男频动态漫，要求原创，推荐转职流、无限流、系统流、非传统修仙流、脑洞文等，一卡内容欢迎投稿，稿费1W起",
       "updateTime": "2026-01-28"
@@ -10555,7 +10555,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2024-12-31"
@@ -10574,7 +10574,7 @@
         "古言",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】目前主签超短，签约类型以世情爽文（家庭偏心打脸婆媳嫂子小姑子表姐小三等）、职场虐爽、现言虐爽、古言虐爽/改嫁为主。 兽世、末世、脑洞、仙侠等也收，纯虐也收",
       "updateTime": "2026-04-07"
@@ -10652,7 +10652,7 @@
       "qq": "",
       "categories": "长篇/短篇/中篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2026-04-22"
@@ -10769,7 +10769,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "主收小程序风性转",
       "updateTime": "2025-02-28"
@@ -10916,7 +10916,7 @@
         "攻略",
         "奇幻"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "脑洞系统、玄幻修仙、末世高武、灵气复苏、灵兽契约……一切能点燃国漫条漫赛道的炸裂设定！",
       "updateTime": "2025-10-20"
@@ -11296,7 +11296,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "-",
       "updateTime": "2025-08-31"
@@ -11368,7 +11368,7 @@
       "qq": "",
       "categories": "长篇/短剧/短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "目前邮箱暂停收稿，只审小窗",
       "updateTime": "2025-03-31"
@@ -11392,7 +11392,7 @@
       "qq": "",
       "categories": "超短篇/短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "-",
       "updateTime": "2025-05-31"
@@ -12045,7 +12045,7 @@
         "古言",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "七月收稿方向：世情、现言，要纯爽的打脸爽文。古言、仙侠、玄幻年代要少量。\n收定制：给梗，专带，有成绩，擅长爽文写法的来，老作者可带成绩溢价给。\n例文：家丘丘，艾特我\n另外，正常收稿，当天出结果，欢迎疯狂比价。",
       "updateTime": "2024-12-31"
@@ -12105,7 +12105,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "-",
       "updateTime": "2024-10-31"
@@ -12413,7 +12413,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2025-05-31"
@@ -12491,7 +12491,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2025-07-31"
@@ -12908,7 +12908,7 @@
       "qq": "",
       "categories": "超短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2025-03-31"
@@ -13176,7 +13176,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2024-10-31"
@@ -13248,7 +13248,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2024-10-31"
@@ -13296,7 +13296,7 @@
       "qq": "",
       "categories": "超短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2025-03-31"
@@ -13380,7 +13380,7 @@
       "qq": "",
       "categories": "短剧/超短篇/短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2024-09-30"
@@ -13678,7 +13678,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "比较容易过稿的是以人设新意、快节奏的小程序风格的文",
       "updateTime": "2024-09-30"
@@ -13834,7 +13834,7 @@
       "qq": "",
       "categories": "长篇/短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2025-01-31"
@@ -14227,7 +14227,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "收稿方向：\n热点文！创新文！\n快节奏！强情绪！\n类型不限！（bl和gl除外）\n小程序风、直呼风各种风格都可！",
       "updateTime": "2025-03-31"
@@ -15099,7 +15099,7 @@
       "themeDirections": [
         "追妻"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "主收追妻",
       "updateTime": "2025-06-30"
@@ -15328,7 +15328,7 @@
       "qq": "",
       "categories": "长篇/短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2025-01-31"
@@ -15837,7 +15837,7 @@
         "爽文",
         "古言"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】主收小程序风，知乎风也收\n世情爽文，追妻古言，通通都要\n有全勤，保底多多\n周末秒审，快来投！",
       "updateTime": "2025-07-31"
@@ -16270,7 +16270,7 @@
       "qq": "",
       "categories": "短剧",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】长期收女频短剧剧本（不收小说了）",
       "updateTime": "2024-11-30"
@@ -16414,7 +16414,7 @@
         "萌宝",
         "古言"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "长期收无线向和晋江风现言、古言，主收玄学、宅斗、团宠、闪婚离婚总裁文、年代文、第一人称文等等，甜宠或爽文皆可",
       "updateTime": "2024-10-31"
@@ -16515,7 +16515,7 @@
         "追妻",
         "虐文"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "中短+短篇，我都要！\n知乎风追妻、小程序虐心流，微虐身。全家火葬场类型，真假千金/偏心/替罪入狱/等等\n中短倒计时框架，开头创新，情景创新，可擦\n普通稿K30起，有破保底四位数以上K50起，爆款作者K80起，上不封顶！\n",
       "updateTime": "2024-10-31"
@@ -16824,7 +16824,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "短篇：逸云书院，磨铁旗下三方，短篇全品类，小程序风对标番茄，知乎风也收\n",
       "updateTime": "2025-05-31"
@@ -17053,7 +17053,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-10-31"
@@ -17172,7 +17172,7 @@
         "年代",
         "奇幻"
       ],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "掌阅编辑收稿啦！\n收k30-50的质量稿！\n收k50-70的质量稿！\n收k70-100的质量稿！\n收k100-200的超级超级质量稿！！\n收稿类型：真假千金、爽文、仙侠文、世情文、虐文、追妻追夫、年代",
       "updateTime": "2025-02-28"
@@ -17634,7 +17634,7 @@
       "qq": "",
       "categories": "中篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-10-31"
@@ -18034,7 +18034,7 @@
       "themeDirections": [
         "古言"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】古言，现言， 现实",
       "updateTime": "2025-01-31"
@@ -18141,7 +18141,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】投/稿：人设+大纲+6000字\n不收已经发布过的稿件",
       "updateTime": "2025-03-31"
@@ -18522,7 +18522,7 @@
         "攻略",
         "奇幻"
       ],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】类型：言情、世情、性转、仙侠、重生、穿越、穿书、系统、热点文（第一人称短篇）",
       "updateTime": "2025-03-31"
@@ -18637,7 +18637,7 @@
         "历史",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】重点收女频逃荒、福宝，团宠、荒年、兽世、古言\n心声、穿越成恶毒后娘\n男频历史，玄幻，都市种田，科举文，未世\n投短篇需备注：短篇",
       "updateTime": "2025-05-31"
@@ -18661,7 +18661,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2025-02-28"
@@ -18691,7 +18691,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-10-31"
@@ -18774,7 +18774,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-05-31"
@@ -18906,7 +18906,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】收废稿，可收bl和gb,gl。收知乎拒稿。",
       "updateTime": "2024-12-31"
@@ -19243,7 +19243,7 @@
       "themeDirections": [
         "历史"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "只收小程序短篇。开篇明确冲突，题材有卖点，有明确的主线卡点。具备热门梗，情绪突出有递进，后续有期待感。\n主过高价稿子，有历史成绩作者请备注。\n1个工作日回复，不可同时投其他网站，超时不回复默认拒稿。\n",
       "updateTime": "2024-10-31"
@@ -19269,7 +19269,7 @@
       "themeDirections": [
         "世情"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "言情 世情 男女频",
       "updateTime": "2025-07-31"
@@ -19281,7 +19281,7 @@
       "qq": "",
       "categories": "长篇/短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "-",
       "updateTime": "2025-07-31"
@@ -19492,7 +19492,7 @@
       "qq": "",
       "categories": "超短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】",
       "updateTime": "2025-07-31"
@@ -19648,7 +19648,7 @@
         "爽文",
         "历史"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】近期收稿调整\n长篇重点：\n女频种田文，荒年，逃荒\n男频：历史文\n\t\n短篇重点\n爽文",
       "updateTime": "2025-05-31"
@@ -20349,7 +20349,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2025-05-31"
@@ -20537,7 +20537,7 @@
       "qq": "",
       "categories": "长篇/短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "新邮箱 1797067120@qq.com",
       "updateTime": "2024-10-31"
@@ -20577,7 +20577,7 @@
         "虐文",
         "女强"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "世情-母女雌竞，闺蜜雌竞，开头强冲击类型！快节奏短篇。言情-重点虐文，大女主，女主觉醒，家国天下的类型皆可！",
       "updateTime": "2024-09-30"
@@ -20725,7 +20725,7 @@
       "qq": "",
       "categories": "超短篇/短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2025-02-28"
@@ -21160,7 +21160,7 @@
         "校园",
         "惊悚"
       ],
-      "status": "停止收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】虐爽文，婚恋-追妻火葬场，追夫火葬场，世情和虐情叠加，脑洞，灵异，小擦，校园爽文",
       "updateTime": "2025-05-31"
@@ -21202,7 +21202,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2025-05-31"
@@ -21214,7 +21214,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2025-02-28"
@@ -21302,7 +21302,7 @@
       "qq": "",
       "categories": "超短篇/短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-05-31"
@@ -21319,7 +21319,7 @@
         "历史",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】女频主收:逃荒、福宝，团宠、荒年、兽世、古言心声、穿越成恶毒后娘，历史种田\n男频主收:历史玄幻仙侠",
       "updateTime": "2025-05-31"
@@ -21403,7 +21403,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】不限",
       "updateTime": "2025-05-31"
@@ -21478,7 +21478,7 @@
       "qq": "",
       "categories": "长篇/短剧",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】⭕番茄一卡：前30集➕人物小传➕大纲    （标有番茄原创的小说）\n⭕七猫阅文一卡：前10集➕人物小传➕大纲\n⭕  人物小传大纲无要求，写清即可。\n剧本每集500-1000字。\n改编最好选择刚完结或者即将完结的小说，读者越多越好。\n⭕人设和主线可进行创新，但不可更改小说人物姓名。\n⭕ 剧本过稿稿费：1-5w，具体看稿件评级。\n⭕签约付定金30%（1-3个工作日到账），完稿审核通过后结清（1-个工作日内到账）\n⭕初次审核5个工作日内会给结果或修改意见，如需要修改，修改后提最终审核。如不需修改直接提最终审核，7-15个工作日出终审结果",
       "updateTime": "2025-05-31"
@@ -21977,7 +21977,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -21989,7 +21989,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2025-01-31"
@@ -22017,7 +22017,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "此邮箱暂停，可投递214760025@qq.com",
       "updateTime": "2024-09-30"
@@ -22066,7 +22066,7 @@
         "历史",
         "奇幻"
       ],
-      "status": "正常收稿",
+      "status": "未核实",
       "feeInfo": "",
       "requirements": "【观察中，需自己评估是否投稿】短篇收稿：\n1、中短主收言情文，虐文爽文皆可，需要开篇创新，人设创新，剧情创新的倒计时。\n2、中短也收2w字以上第一人称中短，爽文、悬疑皆可，对标例文《重生后，手撕黑心白月光》、《重生后我不做舔狗，白月光她慌了》\n3、超短扩大收稿题材：a.黑岩风世情爽文；b.言情情绪流虐爽文；c.悬疑向；d.3-5k字百家号新闻类型\n\t\n中短主线基调：\n言情/性转  虐恋情深，爽文也可。\n迫妻火葬场/追夫火葬场\n情感流，暖味向，快节奏，高冲突\n（主打感情与暧昧纠缠）\n时空设定：\n现代，年代，古代，仙侠等皆可（按主收次序递减）\n大致元素：\n1.倒计时离开，改嫁联姻，假死销户，无性婚姻\n2.禁忌关系，清冷佛子，伪骨科，背德恋，年龄\n差，替身金丝雀，身份高低位差，一切有拉扯感的人设等\n3.父子追妻，双竹马追妻，再见爱人文\n学，纯恨夫妻，七年之痒出轨追妻等\n4.超短类型不限，文好皆可。\n投稿要求：\n超短完本投稿，中短1万字付费卡点投稿，2-3\n万字完本签约～\n全保底签约，千字80起，大神300起～\n6000字以上可投稿，一两天内出结果，",
       "updateTime": "2025-03-31"
@@ -22119,7 +22119,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "正文开头+简要大纲投稿到编辑邮箱",
       "updateTime": "2024-10-31"
@@ -22379,7 +22379,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "全品类",
       "updateTime": "2024-12-31"
@@ -23149,7 +23149,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2025-02-28"
@@ -23447,7 +23447,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-12-31"
@@ -24017,7 +24017,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-10-31"
@@ -24483,7 +24483,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2025-02-28"
@@ -24956,7 +24956,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "全品类收稿",
       "updateTime": "2025-02-28"
@@ -25098,7 +25098,7 @@
       "qq": "",
       "categories": "超短篇/短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "短篇提供买断、纯分成、保底+分成三种合同可选，根据稿件质量对应不同的价格梯队。",
       "updateTime": "2025-03-31"
@@ -25447,7 +25447,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-11-30"
@@ -25459,7 +25459,7 @@
       "qq": "",
       "categories": "短篇/中短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-12-31"
@@ -25549,7 +25549,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -25868,7 +25868,7 @@
         "年代",
         "古言"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "收全品类女频新媒体！主收古言，年代，婚恋。虐文爽文均可！可叠加不同元素如玄学，全家火葬场，绝嗣，好孕等！支持短改长等各种微创新。可关注小红书“网文编辑花卷”随时查看收稿侧重更新~",
       "updateTime": "2024-10-31"
@@ -26418,7 +26418,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "除了耽美涉黄涉政不收，其余类型均可",
       "updateTime": "2024-09-30"
@@ -26722,7 +26722,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -26734,7 +26734,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -26746,7 +26746,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -26770,7 +26770,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -26806,7 +26806,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -26818,7 +26818,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不受短篇！！投稿请发大纲＋人设＋6000字正文；我们是签书不欠人，前期渠道分成，后期可转保底，对新人作者友好，更有元老作者计划，福利多多",
       "updateTime": "2025-01-31"
@@ -26830,7 +26830,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "请关注另一个邮箱：2957875404@qq.com",
       "updateTime": "2025-01-31"
@@ -27084,7 +27084,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限。不收梗美百合",
       "updateTime": "2024-09-30"
@@ -27096,7 +27096,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-11-30"
@@ -27112,7 +27112,7 @@
         "虐文",
         "爽文"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "世情、虐文、爽文",
       "updateTime": "2024-09-30"
@@ -27184,7 +27184,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -27319,7 +27319,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -27520,7 +27520,7 @@
       "themeDirections": [
         "世情"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "本月主收世情文，姐妹、闺蜜、母女雌竞文优先",
       "updateTime": "2024-09-30"
@@ -27686,7 +27686,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -27892,7 +27892,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "【收长篇！不收短篇】\n【全类型收稿】男/女频都收，耽美百合直接签约，不用大纲。 \n【不收已经在别的平台发布过的文！发布过不收！】\n【投稿附6000正文+大纲（大纲可后补）】",
       "updateTime": "2024-10-31"
@@ -27940,7 +27940,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -28192,7 +28192,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "满10000字可投稿，正文开头+简要大纲投稿到编辑邮箱",
       "updateTime": "2024-10-31"
@@ -28752,7 +28752,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -29119,7 +29119,7 @@
         "虐文",
         "爽文"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "主收虐文/爽文，拒收百合/耽美/猎奇/重擦边。",
       "updateTime": "2024-09-30"
@@ -29173,7 +29173,7 @@
         "世情",
         "追妻"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "收爆款热点文，创新世情，追妻火葬场，银发文学创新",
       "updateTime": "2024-09-30"
@@ -29413,7 +29413,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -29905,7 +29905,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -31371,7 +31371,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -31455,7 +31455,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -31635,7 +31635,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -31707,7 +31707,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -32365,7 +32365,7 @@
         "虐文",
         "爽文"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "世情、虐文、爽文",
       "updateTime": "2024-09-30"
@@ -32441,7 +32441,7 @@
         "虐文",
         "爽文"
       ],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "世情、虐文、爽文",
       "updateTime": "2024-09-30"
@@ -32711,7 +32711,7 @@
       "qq": "",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "正常收稿",
+      "status": "停止收稿",
       "feeInfo": "",
       "requirements": "不限",
       "updateTime": "2024-09-30"
@@ -33568,7 +33568,7 @@
       "qq": "2105591067",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2026-08-18"
@@ -33652,7 +33652,7 @@
       "qq": "1823994591",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2026-08-18"
@@ -34204,7 +34204,7 @@
       "qq": "397216553",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2026-08-18"
@@ -37384,7 +37384,7 @@
       "qq": "",
       "categories": "长篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2026-08-18"
@@ -37696,7 +37696,7 @@
       "qq": "3454049824",
       "categories": "短篇",
       "themeDirections": [],
-      "status": "停止收稿",
+      "status": "正常收稿",
       "feeInfo": "",
       "requirements": "",
       "updateTime": "2026-08-18"
